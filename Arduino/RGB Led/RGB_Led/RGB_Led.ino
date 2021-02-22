@@ -1,6 +1,6 @@
-const int ledRed = 9;
-const int ledGreen = 11;
-const int ledBlue = 10;
+const int ledRed = 11;
+const int ledGreen = 10;
+const int ledBlue = 9;
 
 void setup()
 {
